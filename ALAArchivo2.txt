@@ -1,0 +1,48 @@
+DEPARTAMENTO DE INFORMATICA                TRIBUNAL SUPREMO DE ELECCIONES Y REGISTRO CIVIL                     PAGINA:           2
+ REPORTE: R2431                                    SISTEMA INTEGRADO DE INFORMACION                             FECHA:   07-09-2018
+ TODOS LOS MOVIMIENTOS*                    P A D R O N   N A C I O N A L   E L E C T O R A L                    HORA:      20:13:01
+                                          SEGUN SEXO Y AUMENTO EN CIFRAS ABSOLUTAS Y RELATIVAS
+                                            P O R   P R O V I N C I A S   Y   C A N T O N E S
+                                                      AL MES DE  AGOSTO      DE  2018
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ !                                      ! E L E C T O R E S   I N S C R I T O S! VARIACION ! PADRON    !                          !
+ !                                      !--------------------------------------! RESPECTO  ! ELECTORAL ! VARIACION DE ELECTORES   !
+ !          PROVINCIA, CANTON           !              !           !           ! AL MES    ! ELECCION  !--------------------------!
+ !                                      !        TOTAL !   HOMBRES !   MUJERES ! ANTERIOR  ! DEL 2018  ! ABSOLUTO   !  RELATIVO % !
+ !---------------------------------------------------------------------------------------------------------------------------------
+
+          PROVINCIA DE ALAJUELA
+
+
+ CENTRAL                                       204507      103216      101291        524       201480       3027           1.50 %
+
+ SAN RAMON                                      64642       32193       32449         68        63586       1056           1.65 %
+
+ GRECIA                                         59902       29831       30071         62        59285        617           1.05 %
+
+ SAN MATEO                                       4633        2380        2253         12         4602         31           0.65 %
+
+ ATENAS                                         20634       10349       10285         22        20429        205           1.00 %
+
+ NARANJO                                        31999       15838       16161         14        31782        217           0.70 %
+
+ PALMARES                                       29162       14433       14729          1        28973        189           0.65 %
+
+ POAS                                           22128       11053       11075         20        21821        307           1.40 %
+
+ OROTINA                                        15864        7941        7923         26        15594        270           1.75 %
+
+ SAN CARLOS                                    110081       56037       54044        173       108240       1841           1.70 %
+
+ ZARCERO                                         9091        4493        4598          8         9056         35           0.40 %
+
+ VALVERDE VEGA                                  14765        7392        7373         29        14668         97           0.65 %
+
+ UPALA                                          29042       15097       13945        131        28352        690           2.45 %
+
+ LOS CHILES                                     12517        6708        5809         41        12152        365           3.00 %
+
+ GUATUSO                                        11144        5786        5358         20        10970        174           1.60 %
+
+

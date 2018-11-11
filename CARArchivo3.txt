@@ -1,0 +1,33 @@
+DEPARTAMENTO DE INFORMATICA                TRIBUNAL SUPREMO DE ELECCIONES Y REGISTRO CIVIL                     PAGINA:           3
+ REPORTE: R2431                                    SISTEMA INTEGRADO DE INFORMACION                             FECHA:   07-09-2018
+ TODOS LOS MOVIMIENTOS*                    P A D R O N   N A C I O N A L   E L E C T O R A L                    HORA:      20:13:01
+                                          SEGUN SEXO Y AUMENTO EN CIFRAS ABSOLUTAS Y RELATIVAS
+                                            P O R   P R O V I N C I A S   Y   C A N T O N E S
+                                                      AL MES DE  AGOSTO      DE  2018
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ !                                      ! E L E C T O R E S   I N S C R I T O S! VARIACION ! PADRON    !                          !
+ !                                      !--------------------------------------! RESPECTO  ! ELECTORAL ! VARIACION DE ELECTORES   !
+ !          PROVINCIA, CANTON           !              !           !           ! AL MES    ! ELECCION  !--------------------------!
+ !                                      !        TOTAL !   HOMBRES !   MUJERES ! ANTERIOR  ! DEL 2018  ! ABSOLUTO   !  RELATIVO % !
+ !---------------------------------------------------------------------------------------------------------------------------------
+
+          PROVINCIA DE CARTAGO
+
+
+ CENTRAL                                       122577       60401       62176        101       121426       1151           0.95 %
+
+ PARAISO                                        47286       23478       23808         39        46757        529           1.15 %
+
+ LA UNION                                       71030       35001       36029        158        70313        717           1.00 %
+
+ JIMENEZ                                        12164        6177        5987          3        12064        100           0.80 %
+
+ TURRIALBA                                      57518       28713       28805         46        57210        308           0.55 %
+
+ ALVARADO                                       10763        5376        5387         14        10590        173           1.65 %
+
+ OREAMUNO                                       36436       17933       18503         14        36202        234           0.65 %
+
+ EL GUARCO                                      33763       17356       16407         16        33343        420           1.25 %
+

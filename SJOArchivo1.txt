@@ -1,0 +1,57 @@
+DEPARTAMENTO DE INFORMATICA                TRIBUNAL SUPREMO DE ELECCIONES Y REGISTRO CIVIL                     PAGINA:           1
+ REPORTE: R2431                                    SISTEMA INTEGRADO DE INFORMACION                             FECHA:   07-09-2018
+ TODOS LOS MOVIMIENTOS*                    P A D R O N   N A C I O N A L   E L E C T O R A L                    HORA:      20:13:01
+                                          SEGUN SEXO Y AUMENTO EN CIFRAS ABSOLUTAS Y RELATIVAS
+                                            P O R   P R O V I N C I A S   Y   C A N T O N E S
+                                                      AL MES DE  AGOSTO      DE  2018
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ !                                      ! E L E C T O R E S   I N S C R I T O S! VARIACION ! PADRON    !                          !
+ !                                      !--------------------------------------! RESPECTO  ! ELECTORAL ! VARIACION DE ELECTORES   !
+ !          PROVINCIA, CANTON           !              !           !           ! AL MES    ! ELECCION  !--------------------------!
+ !                                      !        TOTAL !   HOMBRES !   MUJERES ! ANTERIOR  ! DEL 2018  ! ABSOLUTO   !  RELATIVO % !
+ !---------------------------------------------------------------------------------------------------------------------------------
+
+          SAN JOSE CENTRAL
+
+
+ CENTRAL                                       234910      113570      121340        148       234558        352           0.15 %
+
+ ESCAZU                                         47489       23241       24248         81        46971        518           1.10 %
+
+ DESAMPARADOS                                  161377       79013       82364        138       160243       1134           0.70 %
+
+ PURISCAL                                       28702       14382       14320         27        28424        278           0.95 %
+
+ TARRAZU                                        12285        6155        6130         11        12188         97           0.80 %
+
+ ASERRI                                         43300       21679       21621         84        42853        447           1.05 %
+
+ MORA                                           21730       10709       11021         30        21361        369           1.70 %
+
+ GOICOECHEA                                     90333       43283       47050         96        90058        275           0.30 %
+
+ SANTA ANA                                      35717       17432       18285         85        35074        643           1.85 %
+
+ ALAJUELITA                                     50846       25187       25659         38        50373        473           0.95 %
+
+ VAZQUEZ DE CORONADO                            54121       26071       28050         72        53496        625           1.15 %
+
+ ACOSTA                                         16735        8549        8186        -33        16608        127           0.75 %
+
+ TIBAS                                          56030       26214       29816         46        55965         65           0.10 %
+
+ MORAVIA                                        44378       21223       23155         30        44209        169           0.40 %
+
+ MONTES DE OCA                                  42541       19994       22547         47        42391        150           0.35 %
+
+ TURRUBARES                                      4598        2358        2240        -14         4593          5           0.10 %
+
+ DOTA                                            5577        2784        2793         -1         5566         11           0.20 %
+
+ CURRIDABAT                                     49304       23670       25634         98        48859        445           0.90 %
+
+ PEREZ ZELEDON                                 112505       56248       56257        116       111779        726           0.65 %
+
+ LEON CORTES CASTRO                              9231        4665        4566         -1         9210         21           0.20 %
+

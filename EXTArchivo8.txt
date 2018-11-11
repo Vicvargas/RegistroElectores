@@ -1,0 +1,107 @@
+DEPARTAMENTO DE INFORMATICA                TRIBUNAL SUPREMO DE ELECCIONES Y REGISTRO CIVIL                     PAGINA:           8
+ REPORTE: R2431                                    SISTEMA INTEGRADO DE INFORMACION                             FECHA:   07-09-2018
+ TODOS LOS MOVIMIENTOS*                    P A D R O N   N A C I O N A L   E L E C T O R A L                    HORA:      20:13:01
+                                          SEGUN SEXO Y AUMENTO EN CIFRAS ABSOLUTAS Y RELATIVAS
+                                            P O R   P R O V I N C I A S   Y   C A N T O N E S
+                                                      AL MES DE  AGOSTO      DE  2018
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ !                                      ! E L E C T O R E S   I N S C R I T O S! VARIACION ! PADRON    !                          !
+ !                                      !--------------------------------------! RESPECTO  ! ELECTORAL ! VARIACION DE ELECTORES   !
+ !          PROVINCIA, CANTON           !              !           !           ! AL MES    ! ELECCION  !--------------------------!
+ !                                      !        TOTAL !   HOMBRES !   MUJERES ! ANTERIOR  ! DEL 2018  ! ABSOLUTO   !  RELATIVO % !
+ !---------------------------------------------------------------------------------------------------------------------------------
+
+          ELECTORES EN EL EXTRANJERO
+
+
+ ALEMANIA                                         527         301         226          7          481         46           9.55 %
+
+ ARGENTINA                                        234         117         117          0          225          9           4.00 %
+
+ AUSTRIA                                          108          51          57          1          102          6           5.90 %
+
+ BELGICA                                          161          74          87          2          147         14           9.50 %
+
+ BELICE                                            10           3           7          0            9          1          11.10 %
+
+ BRASIL                                            98          56          42          3           91          7           7.70 %
+
+ CANADA                                          1070         607         463         11          996         74           7.40 %
+
+ CHILE                                            244         121         123          2          232         12           5.15 %
+
+ CHINA                                            146          77          69          1          142          4           2.80 %
+
+ COLOMBIA                                         386         181         205          3          352         34           9.65 %
+
+ COREA                                             35          16          19          0           33          2           6.05 %
+
+ CUBA                                              39          17          22          0           43         -4          -9.30 %
+
+ ECUADOR                                          147          67          80          2          142          5           3.50 %
+
+ ESTADOS UNIDOS                                 25094       13392       11702        424        22384       2710          12.10 %
+
+ EL SALVADOR                                      303         135         168          4          286         17           5.95 %
+
+ ESPA¾A                                           871         407         464         11          789         82          10.40 %
+
+ FRANCIA                                          389         156         233          0          371         18           4.85 %
+
+ GUATEMALA                                        458         191         267          5          434         24           5.50 %
+
+ HONDURAS                                         242         126         116          7          228         14           6.15 %
+
+ ISRAEL                                           100          44          56          1           90         10          11.10 %
+
+ ITALIA                                           277          95         182          5          251         26          10.35 %
+
+ JAPON                                             78          32          46         -1           79         -1          -1.25 %
+
+ MEXICO                                           956         431         525         14          883         73           8.25 %
+
+ NICARAGUA                                        682         351         331         27          507        175          34.50 %
+
+ PAISES BAJOS                                     236          99         137         -1          225         11           4.90 %
+
+ PANAMA                                           850         392         458         17          733        117          15.95 %
+
+ PERU                                             168          86          82          0          159          9           5.65 %
+
+ REINO UNIDO                                      314         135         179          3          295         19           6.45 %
+
+ REPUBLICA DOMINICANA                             127          68          59          1          116         11           9.50 %
+
+ RUSIA                                             40          26          14          0           39          1           2.55 %
+
+ SINGAPUR                                          46          24          22          2           42          4           9.50 %
+
+ SUIZA                                            319         135         184          4          298         21           7.05 %
+
+ TRINIDAD Y TOBAGO                                  6           1           5          0            6          0           0.00 %
+
+ URUGUAY                                           20          13           7          0           20          0           0.00 %
+
+ VENEZUELA                                        396         182         214          6          390          6           1.55 %
+
+ INDIA                                              9           6           3          0            9          0           0.00 %
+
+ QATAR                                             37          18          19          0           39         -2          -5.10 %
+
+ BOLIVIA                                           40          19          21          0           39          1           2.55 %
+
+ PARAGUAY                                          30          21           9          0           29          1           3.45 %
+
+ AUSTRALIA                                        129          68          61          2          123          6           4.85 %
+
+ JAMAICA                                            4           0           4          1            3          1          33.35 %
+
+ TURQUIA                                            4           2           2          0            2          2         100.00 %
+
+ EMIRATOS ARABES UNIDOS                             5           4           1          1            0          5           0.00 %
+
+ INDONESIA                                          1           1           0          0            0          1           0.00 %
+
+ AZERBAIYAN                                         0           0           0          0            0          0           0.00 %
+

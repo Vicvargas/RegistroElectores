@@ -1,0 +1,39 @@
+DEPARTAMENTO DE INFORMATICA                TRIBUNAL SUPREMO DE ELECCIONES Y REGISTRO CIVIL                     PAGINA:           6
+ REPORTE: R2431                                    SISTEMA INTEGRADO DE INFORMACION                             FECHA:   07-09-2018
+ TODOS LOS MOVIMIENTOS*                    P A D R O N   N A C I O N A L   E L E C T O R A L                    HORA:      20:13:01
+                                          SEGUN SEXO Y AUMENTO EN CIFRAS ABSOLUTAS Y RELATIVAS
+                                            P O R   P R O V I N C I A S   Y   C A N T O N E S
+                                                      AL MES DE  AGOSTO      DE  2018
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ !                                      ! E L E C T O R E S   I N S C R I T O S! VARIACION ! PADRON    !                          !
+ !                                      !--------------------------------------! RESPECTO  ! ELECTORAL ! VARIACION DE ELECTORES   !
+ !          PROVINCIA, CANTON           !              !           !           ! AL MES    ! ELECCION  !--------------------------!
+ !                                      !        TOTAL !   HOMBRES !   MUJERES ! ANTERIOR  ! DEL 2018  ! ABSOLUTO   !  RELATIVO % !
+ !---------------------------------------------------------------------------------------------------------------------------------
+
+          PROVINCIA DE PUNTARENAS
+
+
+ CENTRAL                                        87493       44717       42776         63        86571        922           1.05 %
+
+ ESPARZA                                        22922       11357       11565         20        22598        324           1.45 %
+
+ BUENOS AIRES                                   32243       16722       15521         28        31975        268           0.85 %
+
+ MONTES DE ORO                                  10348        5166        5182          3        10241        107           1.05 %
+
+ OSA                                            22665       11919       10746         55        22210        455           2.05 %
+
+ QUEPOS                                         19958       10571        9387         36        19595        363           1.85 %
+
+ GOLFITO                                        29964       15475       14489         62        29563        401           1.35 %
+
+ COTO BRUS                                      30356       15269       15087         42        29923        433           1.45 %
+
+ PARRITA                                        12194        6294        5900         15        12052        142           1.15 %
+
+ CORREDORES                                     34556       17252       17304         56        34163        393           1.15 %
+
+ GARABITO                                       12108        6324        5784         41        11771        337           2.85 %
+

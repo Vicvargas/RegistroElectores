@@ -1,0 +1,37 @@
+DEPARTAMENTO DE INFORMATICA                TRIBUNAL SUPREMO DE ELECCIONES Y REGISTRO CIVIL                     PAGINA:           4
+ REPORTE: R2431                                    SISTEMA INTEGRADO DE INFORMACION                             FECHA:   07-09-2018
+ TODOS LOS MOVIMIENTOS*                    P A D R O N   N A C I O N A L   E L E C T O R A L                    HORA:      20:13:01
+                                          SEGUN SEXO Y AUMENTO EN CIFRAS ABSOLUTAS Y RELATIVAS
+                                            P O R   P R O V I N C I A S   Y   C A N T O N E S
+                                                      AL MES DE  AGOSTO      DE  2018
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ !                                      ! E L E C T O R E S   I N S C R I T O S! VARIACION ! PADRON    !                          !
+ !                                      !--------------------------------------! RESPECTO  ! ELECTORAL ! VARIACION DE ELECTORES   !
+ !          PROVINCIA, CANTON           !              !           !           ! AL MES    ! ELECCION  !--------------------------!
+ !                                      !        TOTAL !   HOMBRES !   MUJERES ! ANTERIOR  ! DEL 2018  ! ABSOLUTO   !  RELATIVO % !
+ !---------------------------------------------------------------------------------------------------------------------------------
+
+          PROVINCIA DE HEREDIA
+
+
+ CENTRAL                                        97529       46793       50736         32        96661        868           0.90 %
+
+ BARVA                                          33160       16275       16885         15        32786        374           1.15 %
+
+ SANTO DOMINGO                                  34686       17067       17619         26        34421        265           0.75 %
+
+ SANTA BARBARA                                  27041       13417       13624         27        26746        295           1.10 %
+
+ SAN RAFAEL                                     35901       17900       18001         64        35395        506           1.40 %
+
+ SAN ISIDRO                                     16306        8190        8116         24        16081        225           1.40 %
+
+ BELEN                                          18969        9349        9620         31        18745        224           1.20 %
+
+ FLORES                                         16981        8249        8732         23        16683        298           1.80 %
+
+ SAN PABLO                                      22203       10741       11462         18        21950        253           1.15 %
+
+ SARAPIQUI                                      34178       17837       16341         79        33391        787           2.35 %
+
